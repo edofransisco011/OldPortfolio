@@ -10,8 +10,8 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Edo | Portfolio Website",
-  description: "Edo Fransisco is a Web Developer & Full Stack Developer.",
+  title: "Edo | Portfolio",
+  description: "Edo Fransisco is a Full Stack Developer.",
 };
 
 export default function RootLayout({
