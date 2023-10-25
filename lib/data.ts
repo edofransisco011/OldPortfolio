@@ -69,7 +69,9 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
+  "React Native",
   "Next.js",
+  "Vue",
   "Node.js",
   "Git",
   "Tailwind",
@@ -78,8 +80,6 @@ export const skillsData = [
   "Redux",
   "Express",
   "PostgreSQL",
-  "Framer Motion",
-  "Vue",
-  "Supabase",
-  "React Native"
+  "MySQL",
+  "Supabase"
 ] as const;
